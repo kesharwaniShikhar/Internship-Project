@@ -1,0 +1,9 @@
+
+streamlit
+python-dotenv
+pytesseract
+Pillow
+langdetect
+PyMuPDF
+spacy
+googletrans==4.0.0-rc1
